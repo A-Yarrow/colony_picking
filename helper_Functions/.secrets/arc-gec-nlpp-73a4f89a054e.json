@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arc-gec-nlpp",
+  "private_key_id": "73a4f89a054e5b861c977764c0223b1b02f9f567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2CptdeLdKLEW3\nTixd8X2GzN5L2Wy7Rhk10dk7NmOXXUNF0HCLb/YVmrOfn/NueMjtA5lXhu/mzJSz\nUgQwyKVzPeECAHJdA2jqrv8zLQ4r9/F0aJELDIIZZ/iPWvFAZ6m643fj5Up1oto5\nkkwq8Q1ro2E2ljxvhvgx47nSELwcz+tP7ts2IGUJpKI6TtHd3P7HEcXnQC+KH/2V\nO/EaxA8pfCVhwUFH4p6JiF4hogTT7Fyneey9gynq2k80UKuifdygUkiPeINs79qz\nudevJl+bOD7etT8oUWvsFpZ5x5koCookrLAKmJA1D4rC4MsvfB5WQQ9CFCcrl/Js\nbDaVc4Q1AgMBAAECggEACG9l4xcmoRZ7lYKXDjRULXSdQVT+E5BsNyD16Kc8xqUA\n6sF9kYx60eX0+ErMWBxbLRZbWuGrCJ4Grud4P71wYy5lGHdmVTaE/EjnFNs72qA2\nzT7SJ7mo5p35d8UORD55cCo9oi77/AbzhzLm+h9o0InFxaaA/ub5ZbBoahox6UDK\nEDBydmalmfAOjzrp+NoKPv6QZPOtjQV+LLfLVIYhvOrrBbeEziTKgckHxYeTqSQy\noM4MBOhl+6xUTa5/lJeFdykjzGslegptDSUFAi9Bi0299PhXPqf8Flhad+43DCck\nl8N5XXvFwMDKgXidrBphLNl7aYIxkmAgfDi9dpDH4QKBgQDr1Xln9SCXjc1X6mUv\nJTfESG3joTgi9n0U1ngAxF+oyIacKK3ZUDxFQ3aBQtKnVKdI9TkLtzYel0D3Gutv\nCxz7aIjijN0Ifzm6jv0h7xiU/E2IlFOiBzc8avzapV9QVwNqJuViRebFpG1FZE5f\nd6W9dTncknJbeUyGFnRuD19kIQKBgQDFm5aL51CwXy++M4w2pYIWhDhTXI4ArGrE\n++LPU/jEn2mqTLF9Mov4kw3f8Tiuzsxguc399vGxTvpwe3Qtjp+oZ66Cj+Zee34E\nBfYgeov4ZBfP4QXFbN6Ft0+TTKAteNq4TzUSzblhJRVnYjqRQW7KqDI7hHCpp3zF\nmhW8kcadlQKBgCNzx/h0xR2DV6cruWJI+gUrzjk19zZqT4teYlPbMXYyDupSwy+z\n/Bt9dMchwIEfHLa/BoBYXm5i1oVPKq1awlSY9lr4ShII7ii5bhw30T40X4N0qM3m\nv8r5WmGUEqwFKKJAjqMjVvnHKhYQaie32NaOVNBvw3k01ughYAdbkD+BAoGBAJCr\nc/BBDUXSqjVpr8FiMnchncsJ+7xqflBwyIBZTctFmipfs6GhG/CEWKgXBhSUufQm\nk7TW0eOpmpg3CbtAq4qzPYPArjuF1aBEbQkiLs9PGE/Mwljjd5YVumBwvOQNkrNU\n6do2Wv3QFHd35sDpUp9zvDLupzzNrf9M65T+dJZxAoGBALtMXo0v4cYToN3Oi1VT\nrOYogB1KZCNKqhAF1tmr0GMsQ3HHOcLpeGuMjVJz8AavX3ExCiD9N1vnoX90zpQ0\nSe4ojmy0FMecawtQHYxC9nS2yZ0B9ug2hCvkMQiqILyBo4QhETEc1MIz2tl80IPE\nkzfnOqyPphc0qzAl18QqmrjZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "colony-picking-storage-bucket@arc-gec-nlpp.iam.gserviceaccount.com",
+  "client_id": "101451457189703045552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colony-picking-storage-bucket%40arc-gec-nlpp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
