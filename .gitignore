@@ -1,0 +1,5 @@
+*.pyc
+.devcontainer/
+.secrets/
+.env
+/barcode_images/*.jpg
